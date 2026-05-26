@@ -3,4 +3,8 @@ This website is mainly for Trio World Academy students but can be used by anyone
 
 Formed with Markdown in Github, currently in version 1.0
 
-<a href="BIO.md"><button> Biology </button></a>
+<a href="BIO.md"><button> Biology </button></a> <br> 
+<a href="CHEM.md"><button> Chemistry </button></a> <br>
+<a href="PHYS.md"><button> Physics </button></a> <br>
+
+<p> More coming soon!</p>
